@@ -1,0 +1,6 @@
+{
+  "name": "FlowerCount 🌸",
+  "description": "Aesthetic Gen Z flower tracking web app for college campus with interactive Leaflet heatmap, stats, emoji reactions, and flower of the day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
